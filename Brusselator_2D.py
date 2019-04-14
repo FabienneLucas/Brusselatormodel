@@ -4,9 +4,6 @@
 # Version 3.0: Reaction-diffusion system in 1D
 # Version 4.0: Reaction-diffusion system in 2D
 
-import time
-start_time = time.time()
-
 # Importing the package for computations in Python
 import numpy as np
 # Importing the odesolver for solving the system of ODE's
